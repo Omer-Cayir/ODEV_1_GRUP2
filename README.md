@@ -1,1 +1,1 @@
-# ODEV_1_GRUP2
+Ödev kodlarımız "Odev" dosyasının içinde
